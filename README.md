@@ -45,5 +45,7 @@ https://gpixel.com/public/uploads/admin/file/pdf-7917552d763a512ce4860ce10e70934
 …but I also keep a backup under the `datasheet/` folder.
 
 ## Notes
+Current issue I would say is that RPI will shows different FPS reading then the setting because RPI/CAM/MCU are all on different clock, and it is hard to have fine tuning to the timers (the current setup is using 16bit timer), something may could be done with chaining two 16bit timers and act as a 32bit timer but that is for future work. Additionally MSPM0C1104 can not take the same 40Mhz clock as GMAX3412, but I left the resistor jumper that you could lower the clock to 24Mhz and having same clock for both GMAX3412 and MCU but it won't fix the FPS mismatch issue.   
 
 Final note is that the power consumption is a step higher then normal rolling shutter sensors, so the board might be a bit warm when operating.
+
